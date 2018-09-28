@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.toLowerCaseCase) === if (string.toUpperCase)
-  return ("I can't hear you!") else ("YES INDEED!")
+  if (string.toLowerCaseCase) === else (string.toUpperCase)
+  return ("I can't hear you!") els ("YES INDEED!")
 }
